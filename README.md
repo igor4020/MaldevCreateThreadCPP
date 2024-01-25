@@ -8,7 +8,7 @@ Part of the Maldev series, first dropper, create thread CPP
 Clone the Git repository using the `git clone` command.
 
 ```bash
-git clone [<repository-url>](https://github.com/igor4020/MaldevCreateThreadCPP.git)
+git clone https://github.com/igor4020/MaldevCreateThreadCPP.git
 ```
 
 ## Step 2: Navigate to the Cloned Repository
