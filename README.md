@@ -27,7 +27,7 @@ start CreateThreadCpp.sln
 
 If you are not on Windows or the `start` command doesn't work, you can open the solution file manually from the Visual Studio IDE.
 
-## Step 8: Explore and Work
+## Step 4: Explore and Work
 
 Visual Studio should now open with the solution loaded. You can explore the code, make changes, and work on the project.
 
