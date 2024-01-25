@@ -1,0 +1,6 @@
+﻿  CreateThreadCpp.cpp
+  Gerando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  CreateThreadCpp.vcxproj -> C:\Users\T-Gamer\source\repos\CreateThreadCpp\Release\CreateThreadCpp.exe
